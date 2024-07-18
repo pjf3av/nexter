@@ -7,11 +7,11 @@ This styling project is focused on a luxury real estate use case and the design 
 ## Overview
 Nexter highlights my proficiency in frontend development, emphasizing:
 
-- CSS Grid: Utilization of CSS Grid for flexible and responsive layouts.
-- Sass: Organized and scalable stylesheets using Sass for improved maintainability.
-- Responsive Design: Ensuring optimal viewing experiences across various devices and screen sizes.
+- **CSS Grid**: Utilization of CSS Grid for flexible and responsive layouts.
+- **Sass**: Organized and scalable stylesheets using Sass for improved maintainability.
+- **Responsive Design**: Ensuring optimal viewing experiences across various devices and screen sizes.
 
 ## Features
-- Modern Design: Incorporation of cutting-edge design elements and animations.
-- Interactive UI: Engaging user interface with intuitive navigation and dynamic components.
-- Performance Optimized: Efficient code structure for faster load times and smoother interactions.
+- **Modern Design**: Incorporation of cutting-edge design elements and animations.
+- **Interactive UI**: Engaging user interface with intuitive navigation and dynamic components.
+- **Performance Optimized**: Efficient code structure for faster load times and smoother interactions.
