@@ -4,6 +4,8 @@
 Nexter is a demonstration project showcasing advanced CSS and layout techniques, specifically focusing on CSS Grid and modern design principles.
 This styling project is focused on a luxury real estate use case and the design includes various modern hover and click animations on UI elements, elevating the user experience with style and functionality.
 
+**Live Deployment: [https://pjf3av-nexter.netlify.app/](https://pjf3av-nexter.netlify.app/)**
+
 ## Overview
 Nexter highlights my proficiency in frontend development, emphasizing:
 
